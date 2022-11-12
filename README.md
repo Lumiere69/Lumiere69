@@ -6,4 +6,4 @@ Skills:
 - Docker, Ansible, Linux, Oracle, Firebase
 - Flutter, Android Studio, Unity, Webpack, Unreal Engine, QT Design Studio
 - SQL injection, OpenVPN
-- Adobe Photoshop, Adobe Premiere Pro, Adobe Illustrator, Adobe Audition, Adobe After Effects, Adobe InDesign, Vegas, Blender, Cinema 4D, Figma, Audacity, Krita
+- Adobe Photoshop, Adobe InDesign, Figma
